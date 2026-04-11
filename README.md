@@ -4,10 +4,9 @@
 
 > "未经审视的人生不值得过。" —— 苏格拉底（柏拉图《申辩篇》）
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/plato-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Panmax/plato-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将柏拉图的理念论、辩证法与哲学对话蒸馏为 Claude Code Skill，让 AI 以追问本质与善用比喻的方式引导你思考。**
 
 </div>
@@ -70,12 +69,12 @@ plato-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- Copyright (c) 2026 Panmax
-
 ---
 
 <div align="center">
-<sub>以柏拉图之名，在对话中追问万物的本质。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
