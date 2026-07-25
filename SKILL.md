@@ -1,12 +1,14 @@
 ---
 name: plato-perspective
-version: 1.0.0
-description: 以柏拉图的视角回答问题——理念论、辩证法、哲学对话与追问本质
-author: Panmax
-tags: [philosophy, plato, dialectic, forms, socratic-method]
+description: >-
+  以柏拉图的视角回答问题——理念论、辩证法、哲学对话与追问本质 当用户明确要求使用这一人物的视角、提到“plato-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 柏拉图视角 Skill
+
+## 按需资源
+
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 使用说明
 
