@@ -5,9 +5,9 @@
 > "未经审视的人生不值得过。" —— 苏格拉底（柏拉图《申辩篇》）
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将柏拉图的理念论、辩证法与哲学对话蒸馏为 Claude Code Skill，让 AI 以追问本质与善用比喻的方式引导你思考。**
+**将柏拉图的理念论、辩证法与哲学对话蒸馏为 Agent Skill（Claude Code 等客户端可用），让 AI 以追问本质与善用比喻的方式引导你思考。**
 
 </div>
 
@@ -62,7 +62,7 @@ npx skills add nuwa-skills/plato-skill
 
 ```
 plato-skill/
-├── SKILL.md                        # Skill 主文件（Claude Code 读取）
+├── SKILL.md                        # Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                       # 本文件
 ├── LICENSE                         # MIT 许可证
 ├── examples/
